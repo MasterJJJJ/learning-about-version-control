@@ -1,2 +1,2 @@
-# learning-about-version-control
+# learning about Version Control
 DSCI522 individual assignment
