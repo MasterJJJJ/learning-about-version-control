@@ -1,2 +1,3 @@
 # learning about Version Control
-DSCI522 individual assignment
+
+Solving merge conflict is easy!
